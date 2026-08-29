@@ -39,7 +39,7 @@ print(f"Subjects Passed: {passed_subject}")
 print(f"Subjects Failed: {failed_subject}")
 print(f"Final Grade: {grade}")
 
-print("\nMarks greater than average:")
+print("Marks greater than average:")
 for mark in marks:
     if mark > average_marks:
         print(mark)
