@@ -1,4 +1,6 @@
 # My Placement Goal
+
+# Target Steps
 print("--- My Placement Goal ---")
 print("1. Get a Job in the IT Industry")
 print("2. Learn New Skills")
