@@ -11,6 +11,7 @@ def is_anagram(s, t):
     return True
 
 
+# Check Anagrams
 if __name__ == "__main__":
     s = input().strip()
     t = input().strip()
