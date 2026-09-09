@@ -14,6 +14,7 @@ def is_happy_number(n):
     return n == 1
 
 
+# Happy Numbers
 if __name__ == "__main__":
     n = int(input().strip())
     print(is_happy_number(n))
