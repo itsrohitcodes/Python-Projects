@@ -7,5 +7,4 @@ print("Welcome to Python!")
 name = input("Enter your name: ")
 
 # Greet the user
-print("Good Morning", name)
 print(f"Hello, {name}! Nice to meet you.")
