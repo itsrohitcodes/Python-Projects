@@ -1,5 +1,5 @@
 # Salman Sir Assessment
-# question 08
+# QUESTION 08
 
 # Function to match skills
 def match_skills(student_skills, required_skills):
