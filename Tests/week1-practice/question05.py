@@ -1,6 +1,7 @@
 # Salman Sir Assessment
 # QUESTION 05
 
+
 # Function to calculate salary
 def calculate_salary(basic_salary, bonus_percentage):
     bonus_amount = basic_salary * bonus_percentage / 100
