@@ -25,6 +25,7 @@ matched_skills, missing_skills, extra_skills, match_percentage = match_skills(
     required_skills
 )
 
+# Matching Status
 if match_percentage >= 70:
     status = "Eligible"
 else:
