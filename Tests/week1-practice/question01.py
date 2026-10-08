@@ -1,6 +1,7 @@
 # Salman Sir Assessment
 # QUESTION 01
 
+
 # Take input from the user
 customer_name = input()
 units = int(input())
