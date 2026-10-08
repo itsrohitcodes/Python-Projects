@@ -1,6 +1,7 @@
 # Salman Sir Assessment
 # QUESTION 06
 
+
 # Function to analyze numbers
 def analyze_numbers(numbers):
     total = sum(numbers)
