@@ -1,6 +1,7 @@
 # Salman Sir Assessment
 # QUESTION 10
 
+
 # class book
 class LibraryBook:
     def __init__(self, title, author, price):
